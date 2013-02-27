@@ -44,3 +44,6 @@ OS X users and other that don't have wget installed should use curl version.
 
 ## License
 [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/), [Luka Pusic](http://pusic.si)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gudjon/soundcloud-dl/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
